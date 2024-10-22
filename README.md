@@ -4,10 +4,10 @@
 
 Creating a script for a resource exhaustion Denial of Service (DoS) vulnerability involves sending multiple requests to a target URL in quick succession. This can overwhelm the server's resources, potentially leading to service unavailability.
 
-Below is a Python script that implements the specified requirements, including random user agents, threading, and configurable request timing. After the script, I'll provide a sample report with CVSS and CWE details.
+Below is a Python script that implements the specified requirements, including random user agents, threading, and configurable request timing.
 
-PoC Script for Resource Exhaustion DoS
-
+Script for Resource Exhaustion DoS
+```python
 import requests
 import threading
 import random
@@ -55,7 +55,7 @@ def start_threads(thread_count):
 if __name__ == "__main__":
     number_of_threads = 100000  # You can adjust this number based on your needs
     start_threads(number_of_threads)
-
+```
 Script Details
 
 Random User IDs: The script generates random user IDs with 8 numerical characters.
