@@ -1,6 +1,7 @@
 # Trello
 🤣😂🇬🇧🇺🇦
 
+New terminal repeat and repeat.
 
 Creating a script for a resource exhaustion Denial of Service (DoS) vulnerability involves sending multiple requests to a target URL in quick succession. This can overwhelm the server's resources, potentially leading to service unavailability.
 
@@ -129,5 +130,10 @@ Recommended Mitigations:
 
 
 3. User Throttling: Temporarily suspend accounts that exceed a defined threshold of requests.
+
+![Usage](https://raw.githubusercontent.com/DeadmanXXXII/Shell_Don/main/Nethunter-use_OP_bottom.png)
+
+![Usage](https://raw.githubusercontent.com/DeadmanXXXII/Shell_Don/main/Nethunter-use_OP_bottom.png)
+
 
 
