@@ -1,5 +1,4 @@
 # Trello
-🤣😂🇬🇧🇺🇦
 
 New terminal repeat and repeat.
 
